@@ -1,2 +1,2 @@
-# myPage
-My example page
+# Mi página
+Hello, this is scary
